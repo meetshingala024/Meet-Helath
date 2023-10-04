@@ -1,0 +1,13 @@
+table{
+    width:90%;
+}
+table,th,td{
+            border: 1px solid lightgray;
+            text-align:left;
+            padding-left:10px;
+            padding:5px;
+            }
+td{
+    color:lightblack;
+            font-size:12px;
+    }

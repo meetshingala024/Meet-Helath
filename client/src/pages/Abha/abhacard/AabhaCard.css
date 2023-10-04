@@ -1,0 +1,69 @@
+.card {
+  background-color: #f1f1f1;
+  padding: 20px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.radio-group {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.radio-button {
+  display: flex;
+  align-items: center;
+}
+
+.radio-button input {
+  margin-right: 5px;
+}
+
+.input-group {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.input-group input {
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.checkbox-group {
+  margin-bottom: 20px;
+}
+
+.checkbox-group label {
+  display: block;
+  margin-bottom: 10px;
+}
+.form-control {
+  padding: 5px;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+.create-abha-button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.create-abha-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
