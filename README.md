@@ -1,5 +1,5 @@
 <div id="top">
-<h1 align="center">HealthBooker 🧑‍⚕️</h1>
+<h1 align="center">Meet Health 🧑‍⚕️</h1>
 
 <div align="center">
   <br>
@@ -21,12 +21,6 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 <br/>
 
 ---
-
-### 🌐 Link:
-
-<h4> Live Site: https://healthbooker.onrender.com/ </h4>
-
-<br>
 
 ### 🛠️ Tools and technologies used :
 
